@@ -27,7 +27,7 @@ I’m always learning — currently exploring cloud platforms like Azure & AWS, 
 |--------|-------------|
 | [Customer Quality Analysis](https://github.com/Manishkhati028/Customer-Quality-Analysis) | Identified major defect clusters from 45K+ global complaints using NLP (TF-IDF) and K-Means. Led to 80% drop in recurring issues. |
 | [EV Telematics Analytics](https://github.com/Manishkhati028/EV-Telematics-Project) | Analyzed driving behavior and built a regression model predicting EV range with 95% accuracy. |
-| [Uber Trip Analysis (Power BI)]([https://github.com/Manishkhati028/Uber-Trip-Analysis](https://github.com/Manishkhati028/PowerBI-Uber_Trips-Analysis)) | Created dynamic dashboards for trip metrics, time analysis, and vehicle patterns using slicers, bookmarks, and export features. |
+| [Uber Trip Analysis (Power BI)](https://github.com/Manishkhati028/PowerBI-Uber_Trips-Analysis) | Created dynamic dashboards for trip metrics, time analysis, and vehicle patterns using slicers, bookmarks, and export features. |
 
 ---
 
