@@ -29,6 +29,17 @@ I’m always learning — currently exploring cloud platforms like Azure & AWS, 
 
 ---
 
+### 🏆 Achievement Highlight
+
+#### 🚗 Vehicle Performance – Individual Spot Award (Stellantis)
+
+**Awarded for:**  
+> Led the digitalization of Telematics data through effective integration of Power BI and AI/ML technologies, driving data-driven insights and innovation.
+
+<p align="center">
+  <img src="https://github.com/Manishkhati028/Manishkhati028/blob/main/spot-award-stellantis.png" width="60%" alt="Spot Award Certificate" />
+</p>
+
 ### 📫 Connect With Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/manish-khati-b10a8171)  
