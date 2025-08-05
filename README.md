@@ -48,13 +48,4 @@ I’m always learning — currently exploring cloud platforms like Azure & AWS, 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manishkhati028&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manishkhati028&layout=compact&theme=radical" width="47%" />
-</p>
-
----
-
 ⭐️ *Thanks for visiting my profile! If you like what you see, feel free to connect or collaborate.*
