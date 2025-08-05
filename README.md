@@ -25,6 +25,7 @@ I’m always learning — currently exploring cloud platforms like Azure & AWS, 
 
 | Project | Description |
 |--------|-------------|
+| [FurniturePro Sales Dashboard](https://github.com/Manishkhati028/furniturepro-sales-dashboard) | A Power BI case study with multi-tab dashboard featuring RFM segmentation, YoY/MoM trends, What-If analysis, Pareto logic, and dynamic KPIs. |
 | [Uber Trip Analysis (Power BI)](https://github.com/Manishkhati028/PowerBI-Uber_Trips-Analysis) | Created dynamic dashboards for trip metrics, time analysis, and vehicle patterns using slicers, bookmarks, and export features. |
 
 ---
@@ -39,6 +40,8 @@ I’m always learning — currently exploring cloud platforms like Azure & AWS, 
 <p align="center">
   <img src="https://github.com/Manishkhati028/Manishkhati028/blob/main/spot-award-stellantis.png" width="60%" alt="Spot Award Certificate" />
 </p>
+
+---
 
 ### 📫 Connect With Me
 
